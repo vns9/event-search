@@ -1,1 +1,2 @@
-# event-search
+- Code for the TicketMaster Event Search Web Application and IOS Application will be made available upon request. 
+- This repository contains the demo video for the same.
