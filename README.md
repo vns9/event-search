@@ -1,1 +1,2 @@
-Code for the TicketMaster Event Search Web and IOS Application will be made available upon request.
+- Code for the TicketMaster Event Search Web and IOS Application will be made available upon request.
+- Live Demo here: https://csci571-hw8-client.wl.r.appspot.com/
